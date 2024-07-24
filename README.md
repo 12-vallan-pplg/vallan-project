@@ -1,0 +1,2 @@
+# vallan-project
+project pertama
